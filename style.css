@@ -30,7 +30,9 @@ body {
   
     margin-top: -20px;
   }
-  
+  audio {
+  display: none;
+}
   
   .info-container{
   
